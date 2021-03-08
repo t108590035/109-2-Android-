@@ -1,0 +1,9 @@
+Q1
+Ans:android:layout_marginTop="8dp",android:layout_marginBottom="8dp"
+Q2
+Ans:
+app:layout_constraintLeft_toLeftOf="parent"
+Q3
+Ans:public void callMethod(View view)
+Q4
+Ans:Use the view parameter that is passed to the click handler with setBackgroundColor(): view.setBackgroundColor()
