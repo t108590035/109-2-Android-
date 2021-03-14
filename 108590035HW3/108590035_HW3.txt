@@ -1,0 +1,25 @@
+HW3-1
+Q1
+One view or one view group
+
+Q2
+android:orientation="horizontal"
+
+Q3
+android:layout_width="match_parent"
+
+HW3-2
+Qu1
+The second Activity is added as a Java class, the XML layout file is created, and the AndroidManifest.xml file is changed to declare a second Activity.
+
+Q2
+The Back button no longer works in the second Activity to send the user back to the main Activity.
+
+Q3
+new Intent(Context context, Class<?> class)
+
+Q4
+As an Intent extra
+
+Q5
+All of the above.
